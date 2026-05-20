@@ -5,8 +5,8 @@ BaseHangul은 한글을 사용한 바이너리 인코더입니다.
 - KS X 1001 표준에 정의된 한글 문자 순서대로 1024 + 4 + 1문자를 사용하여 10비트를 한 글자(2바이트)로 변환합니다.
 - 기본적으로 처음 1024개의 문자를 사용하되, Padding을 위하여 예외적으로 4 + 1 문자를 사용합니다.
 
-- BaseHangul 규격에 대한 설명은 http://api.dcmys.jp/basehangul/ 를 참고하십시오.
-- 웹 버전의 작동 시험은 http://api.dcmys.jp/%EB%B7%81%EC%96%B4%EB%B2%88%EC%97%AD%EA%B8%B0/ 에서 해볼 수 있습니다.
+- BaseHangul 규격에 대한 설명은 https://basehangul.github.io 를 참고하십시오.
+- 웹 버전의 작동 시험은 http://api.dcmys.kr/%EB%B7%81%EC%96%B4%EB%B2%88%EC%97%AD%EA%B8%B0/ 에서 해볼 수 있습니다.
 
 ## 문법
 
